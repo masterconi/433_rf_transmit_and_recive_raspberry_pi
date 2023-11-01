@@ -19,7 +19,7 @@ RF Outlet Set: https://amzn.to/2M91DJu
 
 how to conect?
 ```
-https://content.instructables.com/F52/I4WX/J76GIPLZ/F52I4WXJ76GIPLZ.png?auto=webp&frame=1&fit=bounds&md=424ff0b0e8c10ca6e958481ca898f631
+![alt text](https://content.instructables.com/F52/I4WX/J76GIPLZ/F52I4WXJ76GIPLZ.png?auto=webp&frame=1&fit=bounds&md=424ff0b0e8c10ca6e958481ca898f631)
 ```
 
 
